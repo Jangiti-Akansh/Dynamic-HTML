@@ -1,0 +1,28 @@
+.tab {
+    display: table;
+    width: 100%;
+  }
+  
+  .tabler {
+    display: table-row;
+  }
+  
+  .tablehead {
+    font-weight: bold;
+  }
+  
+  .cell {
+    display: table-cell;
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+  }
+  .tablehead .cell {
+    background-color: #a5d2f4;
+    color: white;
+  }
+  .row-yellow {
+    background-color: rgb(244, 244, 154); 
+  }
+  .row-green {
+    background-color: rgb(172, 247, 172); 
+  }
